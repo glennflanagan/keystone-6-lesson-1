@@ -1,0 +1,16 @@
+{
+  "name": "keystone-lesson-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "keystone dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@keystone-6/core": "^2.2.0",
+    "typescript": "^4.8.3"
+  }
+}
